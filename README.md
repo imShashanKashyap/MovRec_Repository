@@ -8,4 +8,11 @@ The idea behing this recommendation system is to make simple, easy to undertstan
 
 The files used in the code can be downloaded from the below link:
 
-https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+GitHub Repository: https://github.com/imShashanKashyap/MovRec_Repository
+
+
+
+
+
