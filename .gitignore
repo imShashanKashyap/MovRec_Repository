@@ -2,3 +2,8 @@ credits.csv/credits.csv
 keywords.csv/keywords.csv
 movies_metadata.csv/movies_metadata.csv
 ratings.csv/ratings.csv
+MovRec_Dataset/credits.csv
+.gitignore
+MovRec_Dataset/keywords.csv
+MovRec_Dataset/movies_metadata.csv
+MovRec_Dataset/ratings.csv
