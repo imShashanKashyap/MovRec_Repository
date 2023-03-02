@@ -12,7 +12,7 @@ Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 GitHub Repository: https://github.com/imShashanKashyap/MovRec_Repository
 
-AWS
+AWS-test
 
 
 
